@@ -12,14 +12,16 @@ I'm a former "Automation and Robotics" student at TU Wien and based in Vienna, A
 A potential paper based on the thesis is still under review.
 **Tech Stack:** Matlab, Simulink, Python
 
-[🔗 View Project](https://github.com/yourusername/project1)
+[🔗 View Project](https://github.com/MorResch/ComBi_Copilot)
 
 ---
 ### 📊 Reinforcement Learning - Teach a quadruped how to walk
 **Description:** In this project we (group of 4) implemented and trained a PPO based RL framework with reward functions from various papers to achieve locomotion on a 4-legged Unitree Go1 robot. A short paper provided in the repository gives insights on the implementation details.
 **Tech Stack:** Python (gymnasium, mujoco, torch)
 
-[🔗 View Project](https://github.com/yourusername/project1)
+[🔗 View Project](https://github.com/MoResch12/DL_Unitree/tree/main)
+
+![My Project Screenshot](https://github.com/MoResch12/DL_Unitree/blob/main/walk_on_rand_obstacles.png)
 
 ---
 
