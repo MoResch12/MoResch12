@@ -1,7 +1,7 @@
 # Hi, I'm Moritz Resch
 
 Welcome to my Github page!
-I'm a former "Automation and Robotics" student at TU Wien and based in Vienna, Austria. This GitHub page showcases my work across various domains, including autonomous systems, robotics and some ML. Most of the projects are originally in private repos, but I hope to give you some insights on the projects I did in the past.
+I'm a former "Automation and Robotics" student at TU Wien and based in Vienna, Austria. This GitHub page showcases my work across various domains, including autonomous systems, robotics and some ML. Most of the projects are originally in private repos, but I still hope to give you some insights on the projects I did in the past.
 
 ---
 
@@ -14,6 +14,8 @@ A potential paper based on the thesis is still under review.
 
 [🔗 View Project](https://github.com/MorResch/ComBi_Copilot)
 
+![thesis_overview](https://github.com/MoResch12/MA_img/blob/main/MA_Git_summary.png)
+
 ---
 ### 📊 Reinforcement Learning - Teach a quadruped how to walk
 **Description:** In this project we (group of 4) implemented and trained a PPO based RL framework with reward functions from various papers to achieve locomotion on a 4-legged Unitree Go1 robot. A short paper provided in the repository gives insights on the implementation details.
@@ -21,16 +23,15 @@ A potential paper based on the thesis is still under review.
 
 [🔗 View Project](https://github.com/MoResch12/DL_Unitree/tree/main)
 
-![My Project Screenshot](https://github.com/MoResch12/DL_Unitree/blob/main/walk_on_rand_obstacles.png)
+![RL Project walking img](https://github.com/MoResch12/DL_Unitree/blob/main/walk_on_rand_obstacles.png)
 
 ---
 
 ### 🌐 [Autonomous Racing](https://www.tuwien.at/inf/scuderia-segfault/)
-**Description:** In a team of 5 we implemented the software for an autonomous (toy-) race car, which was equipped with almost 20k € of hardware, including Lidar, Nvidia Jetson Xavier, IMU, cameras, etc. The task was to autonomously race against other participating teams, where we ultimately used a mix of "Pure Pursuit" and "Disparity Extender" algorithms.
+**Description:** In a team of 5 we implemented the software for an autonomous (toy-) race car, which was equipped with almost 20k € of hardware, including Lidar, Nvidia Jetson Xavier, IMU, cameras, etc. The task was to autonomously race against other participating teams, where we ultimately used a mix of "Pure Pursuit" and "Disparity Extender" algorithms. Unfortunately, the Code details are not publicly available.
 **Tech Stack:** Python, C++, Ros2, Docker
 
-
-[🔗 View Project](https://github.com/yourusername/project2)
+![AutRacing_collage](https://github.com/MoResch12/AutonomousRacing/blob/main/AutRacing_img.png)
 
 ---
 
@@ -38,6 +39,8 @@ A potential paper based on the thesis is still under review.
 Also known as [ME310](https://sites.google.com/stanford.edu/global-engineering-design-inno)
 **Description:** A 1 year project to learn how to approach a problem set by our industry partners, develope prototypes and finally come up with a working solution. This was done in a team consisting of students from the TU Wien and Stanford and included 2 stays at Stanford. Our final solution for the industry parnters was an automated HVAC system that adjusted heating ventilation and cooling depending on the demand and occupancy patterns whilst also measuring and presenting ESG KPIs, which were a new challenge at that time. 
 **Tech Stack:** Python, C++, HTML, CAD
+
+![Arec_summary](https://github.com/MoResch12/AREC/blob/main/AREC_summary.png)
 
 [🔗 View Project](https://github.com/ME310-AREC-2023?view_as=public) 
 
