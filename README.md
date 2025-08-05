@@ -10,6 +10,7 @@ I'm a Msc. in "Automation and Robotics" from TU Wien and based in Vienna, Austri
 ### 📊 Master Thesis - Leveraging Large Language Models for Parametrization and Code Generation of Impedance Controllers in Robotic Manipulation
 **Description:** Written at [GV LAB](https://www.gvlab.jp/contact-e.html) - Universtiy of Tokyo and [ACIN](https://www.acin.tuwien.ac.at/en/) - TU Wien under supervision of Prof. Christian Ott and Prof. Gentiane Venture. In summary, the thesis aims to build a framework to leverage the world knowledge of LLMs to parameterize compliant controllers for dual arm manipulation tasks and autonomously generate trajectories. For this, I developed a framework which specifies the prompt structure and the output variables (see Fig. below). The framework was then implemented and tested on two dual arm manipulators (Franka dual arm setup and Pepper robot). Both were able to perform single and dual arm manipulation tasks across different objects, while also being compliant towards outside pertubations.  
 A potential paper based on the thesis is still under review.  
+The Master Thesis can be viewed [here](https://repositum.tuwien.at/handle/20.500.12708/216441)
 **Tech Stack:** Matlab, Simulink, Python
 
 [🔗 View Project](https://github.com/MorResch/ComBi_Copilot)
